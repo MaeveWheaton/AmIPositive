@@ -88,7 +88,7 @@ namespace AmIPositive
             this.Controls.Add(this.integerInput);
             this.Controls.Add(this.integerLabel);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Am I Positive?";
             this.ResumeLayout(false);
             this.PerformLayout();
 
